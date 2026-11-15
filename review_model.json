@@ -1,0 +1,9 @@
+{
+  "model": "gemma4:12b",
+  "stream": true,
+  "think": true,
+  "options": {
+    "num_ctx": 131072,
+    "temperature": 0
+  }
+}
